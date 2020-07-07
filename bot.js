@@ -83,8 +83,8 @@ client.on('ready' , () => {
   var d = new Date();
 
   setInterval(() => {
-    textchennelhaha.send("#daily")
-  }, 60000);
+    textchennelhaha.send("Dont forget for #daily nubs i keep remind u everytime?")
+  }, 1800000);
 
  
 
